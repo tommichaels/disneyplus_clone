@@ -23,6 +23,9 @@ function ImgSlider() {
             <Wrap>
                 <img src="/images/slider-badag.jpg" alt='' />
             </Wrap>
+            <Wrap>
+                <img src="/images/slider-badag.jpg" alt='' />
+            </Wrap>
         </Carousel>
     )
 }
